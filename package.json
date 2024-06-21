@@ -17,7 +17,7 @@
   "ansi-regex": "^6.0.1",
   "debug": "^4.3.4",
   "eslint-utils": "^3.0.0",
-  "fb": "^2.0.0",
+  "fb": "https://github.com/LexisDev/facebook-node-sdk",
   "json-schema": "^0.4.0",
   "jsprim": "^2.0.2",
   "jwt-simple": "^0.5.6",
